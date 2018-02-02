@@ -1,5 +1,5 @@
 syntax "default" "(\.(conf|config|cfg|cnf|rc|lst|list|defs|ini|desktop|mime|types|preset|cache|seat|service|htaccess)$|(^|/)(\w*crontab|mirrorlist|group|hosts|passwd|rpc|netconfig|shadow|fstab|inittab|inputrc|protocols|sudoers|adblock|clamav|config|ddns|dhcp|dropbear|dhcp|etherwake|firewall|freshclam|hd-idle|luci|luci-statistics|minidlna|network|openvpn|p910nd|privoxy|qos|samba|sqm|ssh_config|sshd_config|system|ucitrack|uhttpd|wifi_schedule|wireless|root|banner|banner.failsafe|device_info|monitrc|.vimrc|.viminfo|)$|conf.d/|.config/)"
-+LINT
+
 ## Possible errors and parameters
 
 ## Strings
